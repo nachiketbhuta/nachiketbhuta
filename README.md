@@ -1,4 +1,1 @@
-### Hi there 👋
-- 🌱 I’m currently learning Laravel
-- 💬 Ask me about anything
-- 📫 How to reach me: nachiketbhuta@gmail.com
+![Nachiket's github stats](https://github-readme-stats.vercel.app/api?username=nachiketbhuta&show_icons=true)
